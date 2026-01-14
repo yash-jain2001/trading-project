@@ -1,0 +1,5 @@
+Data Cleaning Report
+====================
+Spot Data: 19836 -> 19836 rows
+Futures Data: 19836 -> 19836 rows
+Options Data: 119016 -> 119016 rows

@@ -1,0 +1,8 @@
+=== Outlier Trade Analysis Summary ===
+
+total_trades: 116
+profitable_trades: 45
+outlier_count: 2
+outlier_pct: 4.444444444444445
+avg_outlier_pnl: 77.44620181258688
+avg_normal_pnl: 11.656446194877242

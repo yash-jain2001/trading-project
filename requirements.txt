@@ -1,0 +1,12 @@
+numpy
+pandas
+yfinance
+scikit-learn
+hmmlearn
+xgboost
+tensorflow
+matplotlib
+seaborn
+ta
+mibian
+jupyter
